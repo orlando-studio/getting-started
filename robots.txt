@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orlando-studio.github.io/getting-started/sitemap.xml
